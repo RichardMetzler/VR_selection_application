@@ -1,0 +1,4 @@
+/home/ri43hiq/workspace/selection_app/build/CMakeFiles/rebuild_cache.dir
+/home/ri43hiq/workspace/selection_app/build/CMakeFiles/edit_cache.dir
+/home/ri43hiq/workspace/selection_app/build/CMakeFiles/selection_app_server.dir
+/home/ri43hiq/workspace/selection_app/build/CMakeFiles/selection_app.dir
