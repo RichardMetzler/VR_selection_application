@@ -180,7 +180,7 @@ int main(int argc, char **argv) {
 
 //	std::string obj_path = "/home/ri43hiq/selection_app/obj_files/cow_FINAL.obj";
 //	std::string obj_path = "/home/ri43hiq/selection_app/obj_files/cow_FINAL.obj";
-	std::string obj_path = "/home/ri43hiq/selection_app/obj_files/P51_FINAL.obj";
+	std::string obj_path = "/home/ri43hiq/selection_app/obj_files/drumset.obj";
 	std::string wand_path = "/home/ri43hiq/selection_app/obj_files/wand_pos.obj";
 
 
